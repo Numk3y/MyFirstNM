@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet"></link>
+<style>
+  .banner {
+    padding:10px;
+    margin:10px;
+    height: 200px;
+    background: grey;
+    background-image:url("https://static-production-10to8.s3.amazonaws.com/CACHE/images/organisation/1a888fcc-7de6-4b35-a160-3b6aacf685b1/18cdd655-ce1f-43dd-bf9c-f361651a588a/Ernie/38b50eaa9b08c85dbf7ce5972eb3b3fc.png");
+  }
+  .product{
+    padding:10px;
+    margin:10px;
+    height:250px;
+    background: grey;
+  }
+  .recommend{
+    padding:10px;
+    margin:10px;
+    height:130px;
+    background:grey;
+  }
+  .coupon{
+    padding:10px;
+    margin:10px;
+    height:200px;
+    background:grey;
+  }
+  
+</style>
+</head>
+<body>
+<div class="row">
+      <div class="col-sm-12">
+        <div class="banner"></div>
+      </div>
+      
+</div>
+<div class="row">
+            <div class="col-sm-6" style="background-color:blue;">
+          <div class="row">
+                <div class="col-sm-5" style="background-color:blue;">
+                  <div class="product">ds
+                  </div>
+                </div>
+          </div>
+      </div>
+            <div class="col-sm-6" style="background-color:blue;">
+          <div class="row">
+                <div class="col-sm-5" style="background-color:blue;">
+                <div class="product">ds</div>
+                </div>
+          </div>
+      </div>
+</div>
+<div class="row">
+            <div class="col-sm-6" style="background-color:blue;">
+          <div class="row">
+                <div class="col-sm-5" style="background-color:blue;">
+                <div class="product">ds</div>
+                </div>
+          </div>
+      </div>
+            <div class="col-sm-6" style="background-color:blue;">
+          <div class="row">
+                <div class="col-sm-5" style="background-color:blue;">
+                <div class="product">ds</div>
+                </div>
+          </div>
+      </div>
+</div>
+<div class="row">
+      <div class="col-sm-4" style="background-color:green;">
+      
+          <div class="recommend">dc</div>
+      </div>
+      <div class="col-sm-4" style="background-color:green;">
+                <div class="recommend">dc</div>
+      </div>
+      <div class="col-sm-4" style="background-color:green;">
+                <div class="recommend">dc</div>
+      </div>
+</div>
+<div class="row">
+      <div class="col-sm-3" style="background-color:yellow;">
+               <div class="coupon">dc</div>
+      </div>
+      <div class="col-sm-3" style="background-color:yellow;">
+              <div class="coupon">dc</div>
+      </div>
+      <div class="col-sm-3" style="background-color:yellow;">
+              <div class="coupon">dc</div>
+      </div>
+      <div class="col-sm-3" style="background-color:yellow;">
+              <div class="coupon">dc</div>
+      </div>
+</div>
+</body>
+</html>
